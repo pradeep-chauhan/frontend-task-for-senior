@@ -8,7 +8,7 @@ The primary goal of this exercise is to assess how you reason about your ability
 
 **We hope you have fun.**
 
-![JOIN Stolen Bike Cases](https://github.com/join-com/coding-challenge-frontend-react/raw/master/illustration.jpg)
+![JOIN Stolen Bike Cases](illustration.jpg)
 
 ## Context
 
