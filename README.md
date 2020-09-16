@@ -1,8 +1,8 @@
-# GKMIT Frontend Technical Assesement - Senior
+# Company Name Frontend Technical Assesement - Senior
 
 ## Introduction
 
-Welcome to GKMIT Frontend Tech test.
+Welcome to Company NAme Frontend Tech test.
 
 The primary goal of this exercise is to assess how you reason about your ability to write clean, well tested and reusable code. There's no hard rules or tricky questions.
 
